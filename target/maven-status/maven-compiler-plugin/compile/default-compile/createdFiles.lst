@@ -1,0 +1,4 @@
+it\test\ws\HelloWorldImpl.class
+it\test\ws\HelloWorld.class
+it\test\ws\interceptors\BodyInterceptor.class
+it\test\ws\interceptors\BasicAuthAuthorizationInterceptor.class

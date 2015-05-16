@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Description: yourdescription
+Dependencies: org.apache.ws.security,org.apache.cxf
