@@ -13,7 +13,7 @@ public class BasicAuthAuthorizationInterceptor extends org.apache.cxf.ws.securit
 	public void handleMessage(SoapMessage message) throws Fault {
 		String str = "";
 	    str = "123";
-		
+	    System.out.println("intercept: "+str);
 	}
 
 	
